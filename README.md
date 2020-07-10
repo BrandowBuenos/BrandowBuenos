@@ -17,9 +17,9 @@
 ## Social networks
 <br>
   <a href="https://in.linkedin.com/in/brandowbuenos">
-    <img align="center" alt="Brandow Buenos | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />&nbsp;&nbsp;&nbsp;brandowbuenos
+    <img align="center" alt="Brandow Buenos | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />&nbsp;&nbsp;&nbsp;
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:brandowbuenos@gmail.com">
-   <img align="center" alt="Brandow Buenos | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />&nbsp;&nbsp;&nbsp;brandowbuenos@gmail.com
+   <img align="center" alt="Brandow Buenos | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />&nbsp;&nbsp;&nbsp;
   </a>
