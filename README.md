@@ -1,4 +1,4 @@
-### <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFpSs_As5t0Hw/profile-displaybackgroundimage-shrink_200_800/0/1581461890715?e=1619049600&v=beta&t=7rOxDwvWytygNLwATAyLTivjZdIHQvKR0NpP8iMJ0xA" width="100%"> 
+### <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFpSs_As5t0Hw/profile-displaybackgroundimage-shrink_200_800/0/1581461890715?e=1625702400&v=beta&t=-IqSHFLhN7gzOqAr0wU4bZmi8_MQEr1asENFNljYLTk" width="100%"> 
 
 ### <center>There's nothing you need to prove. </center>
 
