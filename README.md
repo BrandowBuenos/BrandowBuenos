@@ -1,4 +1,4 @@
-### <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFpSs_As5t0Hw/profile-displaybackgroundimage-shrink_350_1400/0/1581461890715?e=1642032000&v=beta&t=j1st929RBY692IzTYfUweGTR9Ti64W6lGyTkJa8zqZ0" width="100%"> 
+### <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFpSs_As5t0Hw/profile-displaybackgroundimage-shrink_350_1400/0/1581461890715?e=1649289600&v=beta&t=6QP8xahpvt6o-DpAaJ0-gq49WEkPBzlFxmpZm_uQGoA" width="100%"> 
 
 ### <center>Use things, love people. Not the other way around. </center>
 
