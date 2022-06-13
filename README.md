@@ -2,7 +2,7 @@
 
 ### <center>Use things, love people. Not the other way around. </center>
 
-### Hello world!&nbsp;&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello world!&nbsp;&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px">
 
 <p>
   <em>
