@@ -19,7 +19,7 @@
   <a href="https://in.linkedin.com/in/brandowbuenos">
     <img align="center" alt="Brandow Buenos | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:brandowbuenos@gmail.com">
    <img align="center" alt="Brandow Buenos | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
